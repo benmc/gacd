@@ -15,4 +15,12 @@ The script produces a single output file, tidy_data.txt, that contains the trans
 
 #### References
 
+A full description is available at the site where the data was obtained: 
+
+	http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
+
+The data for the project: 
+
+	https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
+
 [Human Activity Recognition Using Smartphones](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
