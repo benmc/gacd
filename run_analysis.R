@@ -1,4 +1,4 @@
-setwd("E://Coursera//GettingAndCleaningData//data//UCI HAR Dataset")
+# setwd("E://Coursera//GettingAndCleaningData//data//UCI HAR Dataset")
 
 feature_names = read.table('features.txt') # 561 obs of 2 variables
 x_test = read.table('test/X_test.txt') # 2947 obs of 563 variables
